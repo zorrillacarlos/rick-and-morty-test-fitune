@@ -2,7 +2,7 @@
 
 Technical test for a Frontend Engineer position at **Fitune**. A web application built with Nuxt 4 that displays characters from the [Rick and Morty API](https://rickandmortyapi.com/graphql).
 
-**Live demo:** _coming soon_
+**Live demo:** https://rick-and-morty-test-fitune.vercel.app
 
 ---
 
