@@ -6,12 +6,12 @@
       <thead class="bg-gray-50 dark:bg-gray-800">
         <tr>
           <th
-            class="px-4 py-3 text-left text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider w-16"
+            class="px-3 py-3 text-left text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider w-10 sm:w-16"
           >
             Avatar
           </th>
           <th
-            class="px-4 py-3 text-left text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider"
+            class="px-3 py-3 text-left text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider"
           >
             Name
           </th>
@@ -21,7 +21,7 @@
             Species
           </th>
           <th
-            class="px-4 py-3 text-left text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider"
+            class="px-3 py-3 text-left text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider"
           >
             Status
           </th>
@@ -31,7 +31,7 @@
             Origin
           </th>
           <th
-            class="px-4 py-3 text-left text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider w-16"
+            class="px-3 py-3 text-left text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider w-10 sm:w-16"
           >
             Fav
           </th>
